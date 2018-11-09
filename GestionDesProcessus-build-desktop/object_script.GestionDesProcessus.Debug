@@ -1,0 +1,15 @@
+INPUT(
+./debug\FenPrincipale.o
+./debug\main.o
+./debug\Chronogramme.o
+./debug\TableauDeSaisie.o
+./debug\TableauRecapitulatif.o
+./debug\PlanDeDessin.o
+./debug\TableauDeVotes.o
+./debug\moc_FenPrincipale.o
+./debug\moc_Chronogramme.o
+./debug\moc_TableauDeSaisie.o
+./debug\moc_TableauRecapitulatif.o
+./debug\moc_PlanDeDessin.o
+./debug\moc_TableauDeVotes.o
+);

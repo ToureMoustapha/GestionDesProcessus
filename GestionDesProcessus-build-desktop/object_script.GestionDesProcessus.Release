@@ -1,0 +1,15 @@
+INPUT(
+./release\FenPrincipale.o
+./release\main.o
+./release\Chronogramme.o
+./release\TableauDeSaisie.o
+./release\TableauRecapitulatif.o
+./release\PlanDeDessin.o
+./release\TableauDeVotes.o
+./release\moc_FenPrincipale.o
+./release\moc_Chronogramme.o
+./release\moc_TableauDeSaisie.o
+./release\moc_TableauRecapitulatif.o
+./release\moc_PlanDeDessin.o
+./release\moc_TableauDeVotes.o
+);
